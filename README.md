@@ -29,10 +29,10 @@ Email Me 👉 ✉️ **manan2006dudeja@gmail.com** For Collaboration/Project or 
 ![](https://nirzak-streak-stats.vercel.app/?user=dudejamanan&theme=neon&hide_border=false)<br/>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=dudejamanan&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_radius=10&cache_seconds=86400" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=dudejamanan&show_icons=true&include_all_commits=true&count_private=true&theme=neon&border_radius=10&cache_seconds=86400" alt="GitHub Stats" />
 
 ### 🌐 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudejamanan&layout=compact&theme=tokyonight&border_radius=10&count_private=true&include_all_commits=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudejamanan&layout=compact&theme=neon&border_radius=10&count_private=true&include_all_commits=true" alt="Top Languages" />
 
 
 ---
@@ -49,7 +49,7 @@ Email Me 👉 ✉️ **manan2006dudeja@gmail.com** For Collaboration/Project or 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pulkittaneja09&theme=tokyonight&no-frame=true&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dudejamanan&theme=tokyonight&no-frame=true&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 
