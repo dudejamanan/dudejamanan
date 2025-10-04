@@ -1,6 +1,13 @@
-# 💫 Hi 👋, I'm Manan Dudeja
-**A passionate AI/ML enthusiast**
+<div align="center">
+  
+# Hi 👋, I'm Manan Dudeja
 
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Explorer+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;Building+Amazing+Projects+%F0%9F%9A%80" />
+
+</div>
+
+---
 Email Me 👉 ✉️ **manan2006dudeja@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 
@@ -21,6 +28,14 @@ Email Me 👉 ✉️ **manan2006dudeja@gmail.com** For Collaboration/Project or 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=dudejamanan&theme=neon&hide_border=false)<br/>
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=dudejamanan&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_radius=10&cache_seconds=86400" alt="GitHub Stats" />
+
+### 🌐 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudejamanan&layout=compact&theme=tokyonight&border_radius=10&count_private=true&include_all_commits=true" alt="Top Languages" />
+
+
+---
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -30,6 +45,16 @@ Email Me 👉 ✉️ **manan2006dudeja@gmail.com** For Collaboration/Project or 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pulkittaneja09&theme=tokyonight&no-frame=true&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+
+
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dudejamanan&limit=5&theme=dark&combine_all_yearly_contributions=true)
