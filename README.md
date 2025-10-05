@@ -61,3 +61,14 @@ Email Me 👉 ✉️ **manan2006dudeja@gmail.com** For Collaboration/Project or 
 [![](https://visitcount.itsvg.in/api?id=dudejamanan&icon=10&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+### 💼 Open For
+**Collaboration** • **Freelance Work** • **Tech Discussions** • **Mentoring**
+
+</div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=white&animation=twinkling&fontAlignY=35"/>
+
+</div>
