@@ -35,6 +35,10 @@ Email Me 👉 ✉️ **manan2006dudeja@gmail.com** For Collaboration/Project or 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudejamanan&layout=compact&theme=neon&border_radius=10&count_private=true&include_all_commits=true" alt="Top Languages" />
 
+### **📊 Contribution Graph**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dudejamanan&bg_color=0D1117&color=C147E9&line=FF6B9D&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+
 
 ---
 <!-- Snake Game Repo View -->
