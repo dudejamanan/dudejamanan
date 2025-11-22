@@ -1,0 +1,36 @@
+name: Monkeytype Stats Update
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        
+      - name: Fetch Monkeytype Stats
+        run: |
+          curl -H "apiKey: ${{ secrets.MONKEYTYPE_API_KEY }}" \
+          "https://api.monkeytype.com/users/dudeja_manan/profile" \
+          > monkeystats.json
+
+      - name: Generate Markdown
+        run: |
+          WPM=$(jq '.data.personalBests.english["60"].wpm' monkeystats.json)
+          ACC=$(jq '.data.overview.accuracy' monkeystats.json)
+          CONS=$(jq '.data.overview.consistency' monkeystats.json)
+
+          echo "### ⌨️ Monkeytype Stats" > monkeytype.md
+          echo "" >> monkeytype.md
+          echo "- **Best 60s WPM:** $WPM" >> monkeytype.md
+          echo "- **Avg Accuracy:** $ACC%" >> monkeytype.md
+          echo "- **Consistency:** $CONS%" >> monkeytype.md
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update Monkeytype Stats
+          file_pattern: monkeytype.md
