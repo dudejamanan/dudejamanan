@@ -1,7 +1,9 @@
 <div align="center">
   
-# Hi 👋, I'm Manan Dudeja
-
+# Hi 👋, I'm 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=70&color=FFFFFF&center=true&vCenter=true&width=600&height=150&lines=MANAN&repeat=false&runonce=true" alt="Manan Dudeja" />
+</p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Explorer+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;Building+Amazing+Projects+%F0%9F%9A%80" />
 
@@ -30,17 +32,18 @@ Email Me 👉 ✉️ **manan2006dudeja@gmail.com** For Collaboration/Project or 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=dudejamanan&theme=neon&hide_border=false)<br/>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=dudejamanan&show_icons=true&include_all_commits=true&count_private=true&theme=neon&border_radius=10&cache_seconds=86400" alt="GitHub Stats" />
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudejamanan&layout=compact&theme=neon&border_radius=10&count_private=true&include_all_commits=true" alt="Top Languages" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dudejamanan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudejamanan&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dudejamanan&bg_color=0D1117&color=C147E9&line=FF6B9D&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 
 
 ---
+
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -48,21 +51,13 @@ Email Me 👉 ✉️ **manan2006dudeja@gmail.com** For Collaboration/Project or 
 </div>
 
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dudejamanan&theme=tokyonight&no-frame=true&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
 
 [![An image of @dudejamanan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dudejamanan)](https://holopin.io/@dudejamanan)
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dudejamanan&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=dudejamanan&icon=10&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
@@ -72,7 +67,7 @@ Email Me 👉 ✉️ **manan2006dudeja@gmail.com** For Collaboration/Project or 
 
 </div>
 
-
+<center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=white&animation=twinkling&fontAlignY=35"/>
-
+</center>
 </div>
