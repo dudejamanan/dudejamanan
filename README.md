@@ -6,6 +6,7 @@
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Explorer+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;Building+Amazing+Projects+%F0%9F%9A%80" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dudejamanan&label=Profile%20views&color=0e75b6&style=flat" alt="imanmay2" /> </p>
 
 </div>
 
